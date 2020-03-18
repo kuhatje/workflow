@@ -9,11 +9,11 @@ you are able to at least be aware of skills that have not been touched in a whil
 
 
 In this application, there will be a series of graphical progress bars, each to represent the 'freshness' of a skillset,
-to track a number of skillsets you intend to keep track of. The barswill decay in length over time, and you could add points 
+to track a number of skillsets you intend to keep track of. The bars will decay in length over time, and you could add points 
 to lengthen a bar every time you have worked in a specific field. This will enable a visual representation of the abilities you have, and
 if used properly, that is, checked twice a day, can keep ALL of your skills fresh and will prevent further time wasted by having to
 re-learn anything.
 
 
-But first, we must write down an analysis of what hobbies matter to me and are worth tracking. The names of the hobbies must also be 
+But first, we must write down an analysis of what hobbies matter to me and are worth tracking. The names of the hobbies must also be
 somewhat generalized, but not too broad to the extent where some fields are misrepresented.

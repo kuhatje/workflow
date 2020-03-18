@@ -11,10 +11,9 @@ pygame.init()
 test = Text('Hello', s.display_width/2, s.display_height/2)
 
 
-
 bars = []
 for y_pos in s.y_pos_values:
-    bars.append(ProgressBar(150, s.black, 1))
+    bars.append(ProgressBar(150, s.black, y_pos))
 
 # test_bar_for_text_rect = ProgressBar(150, s.blue, 0, 50)
 
@@ -51,7 +50,7 @@ def game_loop():
             if length_change:
                 bar.update(length_change)
             bar.draw()
-            print(bar.rect.right)
+            # print(bar.rect.right)
 
         test.draw()
 
